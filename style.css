@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: darkblue;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  min-width: 100vh;
+}
+
+header {
+  font-size: 1.5rem;
+  font-family: 300;
+}
+
+header, form {
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form input, form button {
+  padding: 0.5rem;
+  font-size: 2rem;
+  border: none;
+  background: white;
+}
+
+form button {
+  color: darkblue;
+}
