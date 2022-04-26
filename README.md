@@ -24,6 +24,6 @@ Anote e planeje do seu dia de forma simples e direta. 📒
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="formulario_doguito" src="./github/website.png" width="100%">
+  <img alt="formulario_doguito" src="./github/website.png" width="100%" heigth="100%>
 </p>
 
